@@ -59,7 +59,7 @@ content:
       - layout: left
         title: WSB University | Gdansk, Poland
         caption: 2021 - 2023
-        sub_title: Magister MSc in Computer Science GPA: 3.90
+        sub_title: Magister MSc in Computer Science
         quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -68,7 +68,7 @@ content:
       - layout: left
         title: Gdynia Maritime University, Gdynia, Poland
         caption: 2018 - 2021
-        sub_title: Licencjat B.A. in Economic and Finance GPA: 4.04
+        sub_title: Licencjat B.A. in Economic and Finance
         quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
