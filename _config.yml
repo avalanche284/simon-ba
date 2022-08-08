@@ -57,13 +57,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: WSB University | Gdansk, Poland
+        title: WSB University, Gdansk, Poland
         caption: 2021 - 2023
         sub_title: Magister MSc in Computer Science
         quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Last year I started studying at WSB University in Gdansk. Since then I gained a knowledge and experience in working using <mark>Git</mark>. Working on university projects requires teamwork so we work using BitBucket. I also got to know basics of statics and <mark>data analysis</mark>in <mark>R</mark> and similar tool to <mark>MatLab</mark> which is SciLab. When it comes to system administration I am familiar with <mark>Bash</mark> and <mark>Linux</mark>. We also got to know basics of <mark>Docker</mark> on <mark>virtual machines</mark> and <mark>IoT</mark> setting up HomeAssistant. Basics of <mark>Apache Web Server</mark> are also known to me.
+          Last year I started studying at WSB University in Gdansk. Since then I gained a knowledge and experience in working using <mark>Git</mark> by BitBucket. I also got to know basics of statics and <mark>data analysis</mark> in <mark>R</mark> and similar tool to <mark>MatLab</mark> which is SciLab. When it comes to system administration I am familiar with <mark>Bash</mark> and <mark>Linux</mark>. I also got to know basics of <mark>Docker</mark> on <mark>virtual machines</mark> and <mark>IoT</mark> by setting up HomeAssistant. Basics of <mark>Apache Web Server</mark> are also known to me.
+          By attending additinal classes I got to know how it is to work in <mark>Agile</mark>.
           
       - layout: left
         title: Gdynia Maritime University, Gdynia, Poland
@@ -73,21 +74,20 @@ content:
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           At Gdynia Maritime University I oppose of gaining experience in collaboration with other students and flatmates I was training skills in <mark>HTML</mark> with <mark>CMSs</mark>. Using <mark>Excel</mark> we solved problems using <mark>VSLOOKUP</mark>, <mark>pivot tables</mark> and <mark>IFs</mark>.
-          On the 3rd year I started learnig <mark>AWS</mark>and after a couple of months I got certificate <mark>Certified Cloud Practitioner</mark>.
+          On the 3rd year I started learnig <mark>AWS</mark> and after a couple of months I got certificate Certified Cloud Practitioner.
           On additional classes I started learning about <mark>networks</mark> where we gained skills on programme "Introduction to networks" by Cisco.
 
 #          I spent of my  time as a committee member of the *Logistics Club* but I did not find it interersting ot me taking on roles such as *Trip Secretary* and *Vice-President*.
       - layout: left
-        title: 1 LO High School Suwalki, Poland
+        title: I LO High School Suwalki, Poland
         caption: 2015 - 2018
         sub_title: Major were Mathematics, Physics, Computer Science
         quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          In my High School I got to know basic <mark>C++</mark> programming,HTML & CSS and <mark>Excel</mark> functions. During that time I devoted a lot of time making movies that was promoting the high school (which you can watch in Project section on this site).
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+          In my High School I got to know basic <mark>C++</mark> programming, HTML & CSS and Excel functions as
+          During that time I devoted a lot of time <mark>making movies</mark> that was promoting the high school (which you can watch in Project section on this site)
+          
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -100,10 +100,10 @@ content:
         quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            - Managing AD & O365 accounts in magnificent way for more than 4000 employees; accelerated & automated a process for creating new accounts by 37%
-            - Handling services in Microsoft O365 Admin Centre: share-boxes, distribution lists, Teams, OneDrive, SharePoint; installing software via SCCM, realizing tickets in required SLA taking care of user satisfaction
+            - Managing <mark>AD</mark> & O365 accounts in magnificent way for more than 4000 employees; accelerated & automated a process for creating new accounts by 37%
+            - Handling services in <mark>Microsoft O365 Admin Centre</mark>: share-boxes, distribution lists, Teams, OneDrive, SharePoint; installing software via <mark>SCCM</mark>, realizing tickets in required SLA taking care of user satisfaction
             - Communicating thoroughly with IT operations managers, service process controllers, service delivery directors and team members, effectively reporting of scripts and users issues to assure customer satisfaction
-            - Awarded Fujitsu’s STARS Bronze Award “In recognition of very fast stepping into the new role”
+            - Awarded Fujitsu’s <mark>STARS Bronze Award</mark> “In recognition of very fast stepping into the new role”
       - layout: left
         title: Aplitt Sp. z o.o.
         link: https://aplitt.pl
@@ -113,7 +113,6 @@ content:
         quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every
             - Provided excellent phone-, remote desktop-, and chat-based support to more that 1000 users, including troubleshooting, diagnosing and resolving network-, software-, and hardware-related issues
             - Handled incidents, requests, ITIL Service Management Processes with emphasis on Incident, Request Fulfillment, Change, and Knowledge Management improving customer satisfaction
             - Responded and monitor calls to the direct response line for immediate assistance to customers
@@ -122,8 +121,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: TrueNas 12 Server
+        link: https://www.linkedin.com/posts/szymonbartoszewicz_ixsystems-truenas-nas-activity-6815917883260968960-WyCz?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5pThOT1SR7OsPAfecYI%2B4Q%3D%3D
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -133,9 +132,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I started this project as a way of learning <mark>networking</mark>. I have always wanted to have a NAS server up and running by myself. Adter a course at the University I bought necessary componenets, built the computer and set up the NAS. After that I was also using it as a machine to virtualize systems as the TrueNAS OS has this capability.
 
 #      Look at this cool image
 #      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
