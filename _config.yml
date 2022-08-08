@@ -49,6 +49,7 @@ linkedin_username: szymonbartoszewicz
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hey, my name's Simon and I'm a Computer Science student. I have 12+ months of experience of troubleshooting Windows & network at Service Desk gaining teamwork & problem-solving skills. In meantime I learn coding.
+  Living in Poland now, willing to relocate to Silicon Valley from Poland. Open to remote work opportunities.
 
 #  I am most skilled in: <mark>troubleshooitng</mark> and <mark>Python</mark>
 
@@ -121,12 +122,12 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: TrueNas 12 Server
+        title: TrueNAS 12 Server
         link: https://www.linkedin.com/posts/szymonbartoszewicz_ixsystems-truenas-nas-activity-6815917883260968960-WyCz?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5pThOT1SR7OsPAfecYI%2B4Q%3D%3D
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
+#          - title:  sproogen/modern-resume-theme
+#            icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
@@ -135,6 +136,44 @@ content:
 #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way of learning <mark>networking</mark>. I have always wanted to have a NAS server up and running by myself. Adter a course at the University I bought necessary componenets, built the computer and set up the NAS. After that I was also using it as a machine to virtualize systems as the TrueNAS OS has this capability.
+          
+          
+      - layout: top-middle
+        title: Hackintosh ☠️🍎💻
+        link: https://www.linkedin.com/feed/update/urn:li:activity:6770245686622486528/
+        # link_text: Project Website
+        additional_links:
+#          - title:  sproogen/modern-resume-theme
+#            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Always wanted to have a Mac but could not afford to buy one so I built one!
+        description: | # this will include new lines to allow paragraphs
+          Started working on it as my dream o having Apple machine. Inspired by a friend of mine I bought necessary additions to my old computer, read a lot of threads on specific forums finally I managed to set up up and running Hackintosh. Not all things we working obviously but this experience gave me an incredible fun by fixing errors that were coming while working on it.
+          Through this yourney I learned basics of working using <mark>Bash</mark> and <mark>CMD</mark>.
+          
+          
+      - layout: top-middle
+        title: Debate of Oxford
+        link: https://wznj.umg.edu.pl/aktualnosci/2019/studencka-debata-oksfordzka
+        # link_text: Project Website
+        additional_links:
+#          - title:  sproogen/modern-resume-theme
+#            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Always wanted to have a Mac but could not afford to buy one so I built one!
+        description: | # this will include new lines to allow paragraphs
+             Started working on it as my dream o having Apple machine. Inspired by a friend of mine I bought necessary additions to my old computer, read a lot of threads on specific forums finally I managed to set up up and running Hackintosh. Not all things we working obviously but this experience gave me an incredible fun by fixing errors that were coming while working on it.
+           Through this yourney I learned basics of working using <mark>Bash</mark> and <mark>CMD</mark>.
+
+
 
 #      Look at this cool image
 #      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
