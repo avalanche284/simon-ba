@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hey, my name's Szymon and I'm a Computer Science student. I have 13+ months of experience of troubleshooting Windows & network at Service Desk gaining teamwork & problem-solving skills. Learning coding.
   Living in Poland now, willing to relocate to Silicon Valley. Open to remote work opportunities.
 
-#  I am most skilled in: <mark>troubleshooitng</mark> and <mark>Python</mark>
+  Currently I learn <mark>Python</mark> and write my thesis which is connected with <mark>Data Science</mark>.
 
 content:
   - title: Education # Title for the section
