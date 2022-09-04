@@ -119,7 +119,7 @@ content:
             - Responded and monitor calls to the direct response line for immediate assistance to customers
             - Recognized for superior contribution in dealing with everyday duties also being thorough and reliable in the role
 
-            
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -154,6 +154,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Started working on it as my dream o having Apple machine. Inspired by a friend of mine I bought necessary additions to my old computer, read a lot of threads on specific forums finally I managed to set up up and running Hackintosh. Not all things we working obviously but this experience gave me an incredible fun by fixing errors that were coming while working on it.
           Through this yourney I learned basics of working using <mark>Bash</mark> and <mark>CMD</mark>.
+
       - layout: top-middle
         title: Debate of Oxford
         link: https://wznj.umg.edu.pl/aktualnosci/2019/studencka-debata-oksfordzka
