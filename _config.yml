@@ -15,14 +15,14 @@ website: www.avalanche284.github.io/simon-ba/
 darkmode: false
 
 # Social links
-#twitter_username: facespics
+twitter_username: sibartos
 github_username:  avalanche284
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: sz_bartos
-linkedin_username: szymonbartoszewicz
+instagram_username: sibartos
+linkedin_username: szymonba
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -48,8 +48,8 @@ linkedin_username: szymonbartoszewicz
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey, my name's Simon and I'm a Computer Science student. I have 12+ months of experience of troubleshooting Windows & network at Service Desk gaining teamwork & problem-solving skills. In meantime I learn coding.
-  Living in Poland now, willing to relocate to Silicon Valley from Poland. Open to remote work opportunities.
+  Hey, my name's Szymon and I'm a Computer Science student. I have 13+ months of experience of troubleshooting Windows & network at Service Desk gaining teamwork & problem-solving skills. Learning coding.
+  Living in Poland now, willing to relocate to Silicon Valley. Open to remote work opportunities.
 
 #  I am most skilled in: <mark>troubleshooitng</mark> and <mark>Python</mark>
 
@@ -60,35 +60,35 @@ content:
       - layout: left
         title: WSB University, Gdansk, Poland
         caption: 2021 - 2023
-        sub_title: Magister MSc in Computer Science
+        sub_title: Master of Science, MSc in Computer Science
         quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Last year I started studying at WSB University in Gdansk. Since then I gained a knowledge and experience in working using <mark>Git</mark> by BitBucket. I also got to know basics of statics and <mark>data analysis</mark> in <mark>R</mark> and similar tool to <mark>MatLab</mark> which is SciLab. When it comes to system administration I am familiar with <mark>Bash</mark> and <mark>Linux</mark>. I also got to know basics of <mark>Docker</mark> on <mark>virtual machines</mark> and <mark>IoT</mark> by setting up HomeAssistant. Basics of <mark>Apache Web Server</mark> are also known to me.
+          Last year I started studying at WSB University in Gdansk. Since then I gained a knowledge and experience in working using <mark>Git</mark>. I also got to know basics of statics and <mark>data analysis</mark> in <mark>R</mark> and similar tool to <mark>MatLab</mark> which is SciLab. When it comes to system administration I am familiar with <mark>Bash</mark> and <mark>Linux</mark>. I also got to know basics of <mark>Docker</mark> on <mark>virtual machines</mark> and <mark>IoT</mark> by setting up HomeAssistant. Basics of <mark>Apache Web Server</mark> are also known to me.
           By attending additinal classes I got to know how it is to work in <mark>Agile</mark>.
-          
+
       - layout: left
         title: Gdynia Maritime University, Gdynia, Poland
         caption: 2018 - 2021
-        sub_title: Licencjat B.A. in Economic and Finance
+        sub_title: Bachelor of Arts, B.A. in Economic and Finance
         quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          At Gdynia Maritime University I oppose of gaining experience in collaboration with other students and flatmates I was training skills in <mark>HTML</mark> with <mark>CMSs</mark>. Using <mark>Excel</mark> we solved problems using <mark>VSLOOKUP</mark>, <mark>pivot tables</mark> and <mark>IFs</mark>.
+          At Gdynia Maritime University I oppose of gaining experience in collaboration with other students and flatmates I was training skills in <mark>HTML</mark> with <mark>CMSs</mark>. Using Excel we solved problems using VSLOOKUP, pivot tables and IFs.
           On the 3rd year I started learnig <mark>AWS</mark> and after a couple of months I got certificate Certified Cloud Practitioner.
           On additional classes I started learning about <mark>networks</mark> where we gained skills on programme "Introduction to networks" by Cisco.
 
 #          I spent of my  time as a committee member of the *Logistics Club* but I did not find it interersting ot me taking on roles such as *Trip Secretary* and *Vice-President*.
       - layout: left
-        title: I LO High School Suwalki, Poland
+        title: I LO (High School), Suwalki, Poland
         caption: 2015 - 2018
-        sub_title: Major were Mathematics, Physics, Computer Science
+        sub_title: Major: Mathematics Minor: Computer Science
         quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           In my High School I got to know basic <mark>C++</mark> programming, HTML & CSS and Excel functions as
           During that time I devoted a lot of time <mark>making movies</mark> that was promoting the high school (which you can watch in Project section on this site)
-          
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -136,8 +136,8 @@ content:
 #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way of learning <mark>networking</mark>. I have always wanted to have a NAS server up and running by myself. Adter a course at the University I bought necessary componenets, built the computer and set up the NAS. After that I was also using it as a machine to virtualize systems as the TrueNAS OS has this capability.
-          
-          
+
+
       - layout: top-middle
         title: Hackintosh ☠️🍎💻
         link: https://www.linkedin.com/feed/update/urn:li:activity:6770245686622486528/
@@ -154,8 +154,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           Started working on it as my dream o having Apple machine. Inspired by a friend of mine I bought necessary additions to my old computer, read a lot of threads on specific forums finally I managed to set up up and running Hackintosh. Not all things we working obviously but this experience gave me an incredible fun by fixing errors that were coming while working on it.
           Through this yourney I learned basics of working using <mark>Bash</mark> and <mark>CMD</mark>.
-          
-          
+
+
       - layout: top-middle
         title: Debate of Oxford
         link: https://wznj.umg.edu.pl/aktualnosci/2019/studencka-debata-oksfordzka
