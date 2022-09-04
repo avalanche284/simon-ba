@@ -155,24 +155,6 @@ content:
           Started working on it as my dream o having Apple machine. Inspired by a friend of mine I bought necessary additions to my old computer, read a lot of threads on specific forums finally I managed to set up up and running Hackintosh. Not all things we working obviously but this experience gave me an incredible fun by fixing errors that were coming while working on it.
           Through this yourney I learned basics of working using <mark>Bash</mark> and <mark>CMD</mark>.
 
-      - layout: top-middle
-        title: Debate of Oxford
-        link: https://wznj.umg.edu.pl/aktualnosci/2019/studencka-debata-oksfordzka
-        # link_text: Project Website
-        additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Always wanted to have a Mac but could not afford to buy one so I built one!
-        description: | # this will include new lines to allow paragraphs
-             Started working on it as my dream o having Apple machine. Inspired by a friend of mine I bought necessary additions to my old computer, read a lot of threads on specific forums finally I managed to set up up and running Hackintosh. Not all things we working obviously but this experience gave me an incredible fun by fixing errors that were coming while working on it.
-           Through this yourney I learned basics of working using <mark>Bash</mark> and <mark>CMD</mark>.
-
-
 
 #      Look at this cool image
 #      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
