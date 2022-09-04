@@ -9,7 +9,7 @@ version: 2
 name: Szymon Bartoszewicz
 title: Computer Science student
 email: simon-ba@outlook.com
-website: www.avalanche284.github.io/simon-ba/
+# website: www.avalanche284.github.io/simon-ba/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,8 +48,8 @@ linkedin_username: szymonba
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey, my name's Szymon and I'm a Computer Science student. I have 13+ months of experience of troubleshooting Windows & network at Service Desk gaining teamwork & problem-solving skills. Learning coding.
-  Living in Poland now, willing to relocate to Silicon Valley. Open to remote work opportunities.
+  Hey, my name's Szymon and I'm a Computer Science student. I have 13+ months of experience of troubleshooting Windows & network at Service Desk gaining teamwork & problem-solving skills.
+  Live in Poland, willing to relocate. Also, open to remote work opportunities.
 
   Currently I learn <mark>Python</mark> and write my thesis which is connected with <mark>Data Science</mark>.
 
@@ -64,7 +64,7 @@ content:
         quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Last year I started studying at WSB University in Gdansk. Since then I gained a knowledge and experience in working using <mark>Git</mark>. I also got to know basics of statics and <mark>data analysis</mark> in <mark>R</mark> and similar tool to <mark>MatLab</mark> which is SciLab. When it comes to system administration I am familiar with <mark>Bash</mark> and <mark>Linux</mark>. I also got to know basics of <mark>Docker</mark> on <mark>virtual machines</mark> and <mark>IoT</mark> by setting up HomeAssistant. Basics of <mark>Apache Web Server</mark> are also known to me.
+          Last year I started studying at WSB University in Gdansk. Since then I gained a knowledge and experience in working using <mark>Git</mark>. I also got to know basics of statics and <mark>data analysis</mark> in <mark>R</mark>. When it comes to system administration I am familiar with <mark>Bash</mark> and <mark>Linux</mark>. I also got to know basics of <mark>Docker</mark> on <mark>virtual machines</mark> and <mark>IoT</mark> by setting up HomeAssistant. Basics of <mark>Apache Web Server</mark> are also known to me.
           By attending additinal classes I got to know how it is to work in <mark>Agile</mark>.
 
       - layout: left
@@ -137,7 +137,7 @@ content:
         quote: >
 #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning <mark>networking</mark>. I have always wanted to have a NAS server up and running by myself. Adter a course at the University I bought necessary componenets, built the computer and set up the NAS. After that I was also using it as a machine to virtualize systems as the TrueNAS OS has this capability.
+          I started this project as a way of learning <mark>networking</mark>. I have always wanted to have a NAS server up and running by myself. After a course at the University I bought necessary componenets, built the computer and set up the NAS. After that I was also using it as a machine to virtualize systems as the TrueNAS OS has this capability.
       - layout: top-middle
         title: Hackintosh ☠️🍎💻
         link: https://www.linkedin.com/feed/update/urn:li:activity:6770245686622486528/
