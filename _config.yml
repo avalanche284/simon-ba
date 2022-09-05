@@ -125,7 +125,7 @@ content:
     content:
       - layout: top-middle
         title: TrueNAS 12 Server
-        link: https://www.linkedin.com/posts/szymonbartoszewicz_ixsystems-truenas-nas-activity-6815917883260968960-WyCz?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5pThOT1SR7OsPAfecYI%2B4Q%3D%3D
+        link: https://www.linkedin.com/feed/update/urn:li:activity:6815917883260968960/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6815917883260968960%29
         # link_text: Project Website
         additional_links:
 #          - title:  sproogen/modern-resume-theme
