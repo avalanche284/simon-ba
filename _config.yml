@@ -124,21 +124,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: TrueNAS 12 Server
-        link: https://www.linkedin.com/feed/update/urn:li:activity:6815917883260968960/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6815917883260968960%29
-        # link_text: Project Website
-        additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning <mark>networking</mark>. I have always wanted to have a NAS server up and running by myself. After a course at the University I bought necessary componenets, built the computer and set up the NAS. After that I was also using it as a machine to virtualize systems as the TrueNAS OS has this capability.
-      - layout: top-middle
         title: CleanAirTrip software application
         link: https://github.com/avalanche284/CleanAirTrip
         # link_text: Project Website
@@ -153,6 +138,21 @@ content:
           Take a deep breath of a clean air and travel around the world.
         description: | # this will include new lines to allow paragraphs
           This is my final project application of Harvard’s CS50 course: Introduction to Programming with Python. It is a simple, command-line interface application program.
+      - layout: top-middle
+        title: TrueNAS 12 Server
+        link: https://www.linkedin.com/feed/update/urn:li:activity:6815917883260968960/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6815917883260968960%29
+        # link_text: Project Website
+        additional_links:
+#          - title:  sproogen/modern-resume-theme
+#            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way of learning <mark>networking</mark>. I have always wanted to have a NAS server up and running by myself. After a course at the University I bought necessary componenets, built the computer and set up the NAS. After that I was also using it as a machine to virtualize systems as the TrueNAS OS has this capability.
       - layout: top-middle
         title: Hackintosh ☠️🍎💻
         link: https://www.linkedin.com/feed/update/urn:li:activity:6770245686622486528/
