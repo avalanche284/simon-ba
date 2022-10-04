@@ -22,10 +22,10 @@ github_username:  avalanche284
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: sibartos
-linkedin_username: szymonba
+linkedin_username: szymonbartoszewicz
 # xing_username: jekyll
 # pinterest_username: jekyll
-#youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -54,6 +54,55 @@ about_content: | # this will include new lines to allow paragraphs
   Currently I learn <mark>Python</mark> and write my thesis which is connected with <mark>Data Science</mark>.
 
 content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: CleanAirTrip Python application
+        link: https://github.com/avalanche284/CleanAirTrip
+        # link_text: Project Website
+        additional_links:
+#          - title:  sproogen/modern-resume-theme
+#            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Take a deep breath of a clean air and travel around the world.
+        description: | # this will include new lines to allow paragraphs
+          This is my final project application of Harvard’s CS50 course: Introduction to Programming with <mark>Python</mark>. It is a simple, command-line interface application program.
+      - layout: top-middle
+        title: TrueNAS 12 Server
+        link: https://www.linkedin.com/feed/update/urn:li:activity:6815917883260968960/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6815917883260968960%29
+        # link_text: Project Website
+        additional_links:
+#          - title:  sproogen/modern-resume-theme
+#            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way of learning <mark>networking</mark>. I have always wanted to have a NAS server up and running by myself. After a course at the University I bought necessary componenets, built the computer and set up the NAS. After that I was also using it as a machine to virtualize systems as the TrueNAS OS has this capability.
+      - layout: top-middle
+        title: Hackintosh ☠️🍎💻
+        link: https://www.linkedin.com/feed/update/urn:li:activity:6770245686622486528/
+        # link_text: Project Website
+        additional_links:
+#          - title:  sproogen/modern-resume-theme
+#            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Always wanted to have a Mac but could not afford to buy one so I built one!
+        description: | # this will include new lines to allow paragraphs
+          Started working on it as my dream o having Apple machine. Inspired by a friend of mine I bought necessary additions to my old computer, read a lot of threads on specific forums finally I managed to set up up and running Hackintosh. Not all things we working obviously but this experience gave me an incredible fun by fixing errors that were coming while working on it.
+          Through this yourney I learned basics of working using <mark>Bash</mark> and <mark>CMD</mark>.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -129,55 +178,7 @@ content:
             - Recognized for superior contribution in dealing with everyday duties also being thorough and reliable in the role
 
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: CleanAirTrip Python application
-        link: https://github.com/avalanche284/CleanAirTrip
-        # link_text: Project Website
-        additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Take a deep breath of a clean air and travel around the world.
-        description: | # this will include new lines to allow paragraphs
-          This is my final project application of Harvard’s CS50 course: Introduction to Programming with <mark>Python</mark>. It is a simple, command-line interface application program.
-      - layout: top-middle
-        title: TrueNAS 12 Server
-        link: https://www.linkedin.com/feed/update/urn:li:activity:6815917883260968960/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6815917883260968960%29
-        # link_text: Project Website
-        additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning <mark>networking</mark>. I have always wanted to have a NAS server up and running by myself. After a course at the University I bought necessary componenets, built the computer and set up the NAS. After that I was also using it as a machine to virtualize systems as the TrueNAS OS has this capability.
-      - layout: top-middle
-        title: Hackintosh ☠️🍎💻
-        link: https://www.linkedin.com/feed/update/urn:li:activity:6770245686622486528/
-        # link_text: Project Website
-        additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Always wanted to have a Mac but could not afford to buy one so I built one!
-        description: | # this will include new lines to allow paragraphs
-          Started working on it as my dream o having Apple machine. Inspired by a friend of mine I bought necessary additions to my old computer, read a lot of threads on specific forums finally I managed to set up up and running Hackintosh. Not all things we working obviously but this experience gave me an incredible fun by fixing errors that were coming while working on it.
-          Through this yourney I learned basics of working using <mark>Bash</mark> and <mark>CMD</mark>.
+
 
 
 #      Look at this cool image
