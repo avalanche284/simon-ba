@@ -58,6 +58,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: University of Pavia, Pavia, Italy
+        caption: 2022 - 2023
+        sub_title: Master of Science, MSc in Computer Science
+        quote: >
+#          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Being qualified to take part in Erasmus student exchange programme I Started studying Computer Engineering, Data Science, at University of Pavia in Italy.
+
+      - layout: left
         title: WSB University, Gdansk, Poland
         caption: 2021 - 2023
         sub_title: Master of Science, MSc in Computer Science
@@ -97,7 +106,7 @@ content:
         link: https://www.fujitsu.com/pl/
         # link_text: https://www.fujitsu.com/pl/
         sub_title: Service Desk Expert EUC 2nd Line
-        caption: February 2022 - Present
+        caption: February 2022 - September 2022
         quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
