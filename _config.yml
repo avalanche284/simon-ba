@@ -124,7 +124,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: CleanAirTrip software application
+        title: CleanAirTrip Python application
         link: https://github.com/avalanche284/CleanAirTrip
         # link_text: Project Website
         additional_links:
@@ -137,7 +137,7 @@ content:
         quote: >
           Take a deep breath of a clean air and travel around the world.
         description: | # this will include new lines to allow paragraphs
-          This is my final project application of Harvard’s CS50 course: Introduction to Programming with Python. It is a simple, command-line interface application program.
+          This is my final project application of Harvard’s CS50 course: Introduction to Programming with <mark>Python</mark>. It is a simple, command-line interface application program.
       - layout: top-middle
         title: TrueNAS 12 Server
         link: https://www.linkedin.com/feed/update/urn:li:activity:6815917883260968960/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6815917883260968960%29
