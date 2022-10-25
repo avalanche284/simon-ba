@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hey, my name's Szymon and I'm a Computer Science student. I have 13+ months of experience of troubleshooting Windows & network at Service Desk gaining teamwork & problem-solving skills.
   Live in Poland, willing to relocate. Also, open to remote work opportunities.
 
-  Currently I learn <mark>Python</mark> and write my thesis which is connected with <mark>Data Science</mark>.
+  Currently I study <mark>Data Science</mark> and write thesis covering <mark>Machine Learning</mark>.
 
 content:
   - title: Projects # Title for the section
@@ -176,10 +176,6 @@ content:
             - Handled incidents, requests, ITIL Service Management Processes with emphasis on Incident, Request Fulfillment, Change, and Knowledge Management improving customer satisfaction
             - Responded and monitor calls to the direct response line for immediate assistance to customers
             - Recognized for superior contribution in dealing with everyday duties also being thorough and reliable in the role
-
-
-
-
 
 #      Look at this cool image
 #      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
