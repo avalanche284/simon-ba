@@ -48,8 +48,8 @@ linkedin_username: szymonbartoszewicz
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey, my name's Szymon, and I'm a Computer Science student. I have 14+ months of experience troubleshooting Windows & networks at the Service Desk, gaining teamwork & problem-solving skills. Live in Poland, willing to relocate. Also, open to remote work opportunities.
-  Currently I study <mark>Data Science</mark> and write thesis covering <mark>Machine Learning</mark>.
+  Hey, my name's Szymon, and I'm a Computer Science student. I have 14+ months of experience troubleshooting Windows & networks at the Service Desk, gaining teamwork & problem-solving skills. Live in Italy. Open to on-site and remote work opportunities.
+  Currently, I am studying <mark>Data Science</mark> and writing a thesis covering <mark>Machine Learning</mark>.
 
 content:
   - title: Projects # Title for the section
@@ -67,7 +67,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Take a deep breath of a clean air and travel around the world.
+          Take a deep breath of clean air and travel around the world.
         description: | # this will include new lines to allow paragraphs
           This is my final project application for Harvard’s CS50 course: Introduction to Programming with <mark>Python</mark>. It is a simple, command-line interface application program.
       - layout: top-middle
@@ -166,7 +166,7 @@ content:
         quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            - Managed<mark>AD</mark> & O365 accounts in a magnificent way for more than 4000 employees; accelerated & automated a process for creating new accounts by 37%
+            - Managed <mark>AD</mark> & O365 accounts in a magnificent way for more than 4000 employees; accelerated & automated a process for creating new accounts by 37%
             - Handled services in <mark>Microsoft O365 Admin Centre</mark>: share-boxes, distribution lists, Teams, OneDrive, SharePoint; installing software via <mark>SCCM</mark>, realizing tickets in required SLA taking care of user satisfaction
             - Communicated thoroughly with IT operations managers, service process controllers, service delivery directors, and team members, effectively reporting scripts and users issues to ensure customer satisfaction
             - Awarded Fujitsu’s <mark>STARS Bronze Award</mark> “In recognition of stepping very fast into the new role.”
