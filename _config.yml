@@ -126,9 +126,6 @@ content:
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           Being qualified to take part in Erasmus student exchange programme, I started studying Computer Engineering and Data Science at the University of Pavia in Italy.
-
-
-
       - layout: left
         title: WSB University, Gdansk, Poland
         caption: 2021 - 2023
@@ -136,8 +133,7 @@ content:
         quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Last year I started studying at WSB University in Gdansk. Since then, I have gained knowledge and experience using <mark>Git</mark>. I also got to know the basics of statics and <mark>data analysis</mark> in <mark>R</mark>. When it comes to system administration, I am familiar with <mark>Bash</mark> and <mark>Linux</mark>. I also got to know the basics of <mark>Docker</mark> on <mark>virtual machines</mark> and <mark>IoT</mark> by setting up HomeAssistant; Basics of <mark>Apache Web Server</mark> are also known to me.
- I learned how to work in <mark>Agile</mark> by attending additional classes.
+          Last year I started studying at WSB University in Gdansk. Since then, I have gained knowledge and experience using <mark>Git</mark>. I also got to know the basics of statics and <mark>data analysis</mark> in <mark>R</mark>. When it comes to system administration, I am familiar with <mark>Bash</mark> and <mark>Linux</mark>. I also got to know the basics of <mark>Docker</mark> on <mark>virtual machines</mark> and <mark>IoT</mark> by setting up HomeAssistant; Basics of <mark>Apache Web Server</mark> are also known to me. I learned how to work in <mark>Agile</mark> by attending additional classes.
 
       - layout: left
         title: Gdynia Maritime University, Gdynia, Poland
@@ -146,9 +142,7 @@ content:
         quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          At Gdynia Maritime University, I oppose gaining experience in collaboration with other students and flatmates I was training skills in <mark>HTML</mark> with <mark>CMSs</mark>. Using Excel, we solved problems using VSLOOKUP, pivot tables and IFs.
- In the 3rd year, I started learning <mark>AWS</mark>, and after a couple of months, I got a certificate Certified Cloud Practitioner.
- In additional classes, I started learning about <mark>networks</mark>, where we gained skills on the programme "Introduction to networks" by Cisco.
+          At Gdynia Maritime University, I oppose gaining experience in collaboration with other students and flatmates I was training skills in <mark>HTML</mark> with <mark>CMSs</mark>. Using Excel, we solved problems using VSLOOKUP, pivot tables and IFs. In the 3rd year, I started learning <mark>AWS</mark>, and after a couple of months, I got a certificate Certified Cloud Practitioner. In additional classes, I started learning about <mark>networks</mark>, where we gained skills on the programme "Introduction to networks" by Cisco.
 
 #          I spent of my  time as a committee member of the *Logistics Club* but I did not find it interersting ot me taking on roles such as *Trip Secretary* and *Vice-President*.
       - layout: left
@@ -158,8 +152,7 @@ content:
         quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          In my High School I got to know basic <mark>C++</mark> programming, HTML & CSS and Excel functions as
- During that time, I devoted a lot of time <mark>making movies</mark> that were promoting the high school (which you can watch in the Project section on this site)
+          In my High School I got to know basic <mark>C++</mark> programming, HTML & CSS and Excel functions. During that time, I devoted a lot of time <mark>making movies</mark> that were promoting the high school (which you can watch in the Project section on this site)
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
