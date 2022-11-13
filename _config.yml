@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Szymon Bartoszewicz
 title: Computer Science student
-email: simon-ba@outlook.com
+email: szymon.bartoszewicz@hotmail.com
 # website: www.avalanche284.github.io/simon-ba/
 
 # Dark Mode (true/false/never)
@@ -48,9 +48,7 @@ linkedin_username: szymonbartoszewicz
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey, my name's Szymon and I'm a Computer Science student. I have 13+ months of experience of troubleshooting Windows & network at Service Desk gaining teamwork & problem-solving skills.
-  Live in Poland, willing to relocate. Also, open to remote work opportunities.
-
+  Hey, my name's Szymon, and I'm a Computer Science student. I have 14+ months of experience troubleshooting Windows & networks at the Service Desk, gaining teamwork & problem-solving skills. Live in Poland, willing to relocate. Also, open to remote work opportunities.
   Currently I study <mark>Data Science</mark> and write thesis covering <mark>Machine Learning</mark>.
 
 content:
@@ -71,7 +69,22 @@ content:
         quote: >
           Take a deep breath of a clean air and travel around the world.
         description: | # this will include new lines to allow paragraphs
-          This is my final project application of Harvard’s CS50 course: Introduction to Programming with <mark>Python</mark>. It is a simple, command-line interface application program.
+          This is my final project application for Harvard’s CS50 course: Introduction to Programming with <mark>Python</mark>. It is a simple, command-line interface application program.
+      - layout: top-middle
+        title: Preprint 'Air pollution forecasting based on a predictive regression model'
+        link: https://www.researchgate.net/publication/365318656_Air_pollution_forecasting_based_on_a_predictive_regression_model
+        # link_text: Project Website
+        additional_links:
+#          - title:  sproogen/modern-resume-theme
+#            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+#          Take a deep breath of a clean air and travel around the world.
+        description: | # this will include new lines to allow paragraphs
+          This preprint was done with a professor and two colleagues from my University.
       - layout: top-middle
         title: TrueNAS 12 Server
         link: https://www.linkedin.com/feed/update/urn:li:activity:6815917883260968960/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6815917883260968960%29
@@ -86,7 +99,7 @@ content:
         quote: >
 #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning <mark>networking</mark>. I have always wanted to have a NAS server up and running by myself. After a course at the University I bought necessary componenets, built the computer and set up the NAS. After that I was also using it as a machine to virtualize systems as the TrueNAS OS has this capability.
+          I started this project as a way of learning <mark>networking</mark>. I have always wanted a NAS server up and running by myself. After a course at the University, I bought the necessary components, built the computer and set up the NAS. After that, I also used it as a machine to virtualize systems, as the TrueNAS OS has this capability.
       - layout: top-middle
         title: Hackintosh ☠️🍎💻
         link: https://www.linkedin.com/feed/update/urn:li:activity:6770245686622486528/
@@ -99,10 +112,10 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Always wanted to have a Mac but could not afford to buy one so I built one!
+          I always wanted a Mac but could not afford one, so I built one!
         description: | # this will include new lines to allow paragraphs
-          Started working on it as my dream o having Apple machine. Inspired by a friend of mine I bought necessary additions to my old computer, read a lot of threads on specific forums finally I managed to set up up and running Hackintosh. Not all things we working obviously but this experience gave me an incredible fun by fixing errors that were coming while working on it.
-          Through this yourney I learned basics of working using <mark>Bash</mark> and <mark>CMD</mark>.
+          I started working on it as my dream o having an Apple machine. Then, inspired by a friend, I bought the necessary additions to my old computer, read a lot of threads on specific forums, and finally set up and run Hackintosh. Of course, not all things were working, but this experience gave me incredible fun by fixing errors coming while working on it.
+Through this course, I learned the basics of working using <mark>Bash</mark> and <mark>CMD</mark>.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -113,7 +126,9 @@ content:
         quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Being qualified to take part in Erasmus student exchange programme I started studying Computer Engineering, Data Science, at University of Pavia in Italy.
+          Being qualified to take part in Erasmus student exchange programme, I started studying Computer Engineering and Data Science at the University of Pavia in Italy.
+
+
 
       - layout: left
         title: WSB University, Gdansk, Poland
@@ -122,8 +137,8 @@ content:
         quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Last year I started studying at WSB University in Gdansk. Since then I gained a knowledge and experience in working using <mark>Git</mark>. I also got to know basics of statics and <mark>data analysis</mark> in <mark>R</mark>. When it comes to system administration I am familiar with <mark>Bash</mark> and <mark>Linux</mark>. I also got to know basics of <mark>Docker</mark> on <mark>virtual machines</mark> and <mark>IoT</mark> by setting up HomeAssistant. Basics of <mark>Apache Web Server</mark> are also known to me.
-          By attending additinal classes I got to know how it is to work in <mark>Agile</mark>.
+          Last year I started studying at WSB University in Gdansk. Since then, I have gained knowledge and experience using <mark>Git</mark>. I also got to know the basics of statics and <mark>data analysis</mark> in <mark>R</mark>. When it comes to system administration, I am familiar with <mark>Bash</mark> and <mark>Linux</mark>. I also got to know the basics of <mark>Docker</mark> on <mark>virtual machines</mark> and <mark>IoT</mark> by setting up HomeAssistant; Basics of <mark>Apache Web Server</mark> are also known to me.
+ I learned how to work in <mark>Agile</mark> by attending additional classes.
 
       - layout: left
         title: Gdynia Maritime University, Gdynia, Poland
@@ -132,9 +147,9 @@ content:
         quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          At Gdynia Maritime University I oppose of gaining experience in collaboration with other students and flatmates I was training skills in <mark>HTML</mark> with <mark>CMSs</mark>. Using Excel we solved problems using VSLOOKUP, pivot tables and IFs.
-          On the 3rd year I started learnig <mark>AWS</mark> and after a couple of months I got certificate Certified Cloud Practitioner.
-          On additional classes I started learning about <mark>networks</mark> where we gained skills on programme "Introduction to networks" by Cisco.
+          At Gdynia Maritime University, I oppose gaining experience in collaboration with other students and flatmates I was training skills in <mark>HTML</mark> with <mark>CMSs</mark>. Using Excel, we solved problems using VSLOOKUP, pivot tables and IFs.
+ In the 3rd year, I started learning <mark>AWS</mark>, and after a couple of months, I got a certificate Certified Cloud Practitioner.
+ In additional classes, I started learning about <mark>networks</mark>, where we gained skills on the programme "Introduction to networks" by Cisco.
 
 #          I spent of my  time as a committee member of the *Logistics Club* but I did not find it interersting ot me taking on roles such as *Trip Secretary* and *Vice-President*.
       - layout: left
@@ -145,7 +160,7 @@ content:
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           In my High School I got to know basic <mark>C++</mark> programming, HTML & CSS and Excel functions as
-          During that time I devoted a lot of time <mark>making movies</mark> that was promoting the high school (which you can watch in Project section on this site)
+ During that time, I devoted a lot of time <mark>making movies</mark> that were promoting the high school (which you can watch in the Project section on this site)
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -159,10 +174,10 @@ content:
         quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            - Managing <mark>AD</mark> & O365 accounts in magnificent way for more than 4000 employees; accelerated & automated a process for creating new accounts by 37%
-            - Handling services in <mark>Microsoft O365 Admin Centre</mark>: share-boxes, distribution lists, Teams, OneDrive, SharePoint; installing software via <mark>SCCM</mark>, realizing tickets in required SLA taking care of user satisfaction
-            - Communicating thoroughly with IT operations managers, service process controllers, service delivery directors and team members, effectively reporting of scripts and users issues to assure customer satisfaction
-            - Awarded Fujitsu’s <mark>STARS Bronze Award</mark> “In recognition of very fast stepping into the new role”
+            - Managed<mark>AD</mark> & O365 accounts in a magnificent way for more than 4000 employees; accelerated & automated a process for creating new accounts by 37%
+            - Handled services in <mark>Microsoft O365 Admin Centre</mark>: share-boxes, distribution lists, Teams, OneDrive, SharePoint; installing software via <mark>SCCM</mark>, realizing tickets in required SLA taking care of user satisfaction
+            - Communicated thoroughly with IT operations managers, service process controllers, service delivery directors, and team members, effectively reporting scripts and users issues to ensure customer satisfaction
+            - Awarded Fujitsu’s <mark>STARS Bronze Award</mark> “In recognition of stepping very fast into the new role.”
       - layout: left
         title: Aplitt Sp. z o.o.
         link: https://aplitt.pl
@@ -172,10 +187,10 @@ content:
         quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            - Provided excellent phone-, remote desktop-, and chat-based support to more that 1000 users, including troubleshooting, diagnosing and resolving network-, software-, and hardware-related issues
-            - Handled incidents, requests, ITIL Service Management Processes with emphasis on Incident, Request Fulfillment, Change, and Knowledge Management improving customer satisfaction
-            - Responded and monitor calls to the direct response line for immediate assistance to customers
-            - Recognized for superior contribution in dealing with everyday duties also being thorough and reliable in the role
+             - Provided excellent phone-, remote desktop-, and chat-based support to more than 1000 users, including troubleshooting, diagnosing, and resolving network-, software-, and hardware-related issues
+             - Handled incidents, requests, and ITIL Service Management Processes with emphasis on Incident, Request Fulfillment, Change, and Knowledge Management improving customer satisfaction
+             - Responded and monitored calls to the direct response line for immediate assistance to customers
+             - Recognized for superior contribution in dealing with everyday duties also being thorough and reliable in the role
 
 #      Look at this cool image
 #      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
