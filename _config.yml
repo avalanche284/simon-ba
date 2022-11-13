@@ -114,8 +114,7 @@ content:
         quote: >
           I always wanted a Mac but could not afford one, so I built one!
         description: | # this will include new lines to allow paragraphs
-          I started working on it as my dream o having an Apple machine. Then, inspired by a friend, I bought the necessary additions to my old computer, read a lot of threads on specific forums, and finally set up and run Hackintosh. Of course, not all things were working, but this experience gave me incredible fun by fixing errors coming while working on it.
-Through this course, I learned the basics of working using <mark>Bash</mark> and <mark>CMD</mark>.
+          I started working on it as my dream o having an Apple machine. Then, inspired by a friend, I bought the necessary additions to my old computer, read a lot of threads on specific forums, and finally set up and run Hackintosh. Of course, not all things were working, but this experience gave me incredible fun by fixing errors coming while working on it. Through this course, I learned the basics of working using <mark>Bash</mark> and <mark>CMD</mark>.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
