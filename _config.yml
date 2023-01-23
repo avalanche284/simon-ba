@@ -61,7 +61,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+            ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
             url: https://github.com/avalanche284/Bitcoin-price-prediction
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
