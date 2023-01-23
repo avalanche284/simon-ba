@@ -61,7 +61,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+            icon: fab fa-github
             url: https://github.com/avalanche284/Bitcoin-price-prediction
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
@@ -99,43 +99,13 @@ content:
 #          Take a deep breath of a clean air and travel around the world.
         description: | # this will include new lines to allow paragraphs
           This preprint was done with a professor and two colleagues from my University.
-      - layout: top-middle
-        title: TrueNAS 12 Server
-        link: https://www.linkedin.com/feed/update/urn:li:activity:6815917883260968960/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6815917883260968960%29
-        # link_text: Project Website
-        additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning <mark>networking</mark>. I have always wanted a NAS server up and running by myself. After a course at the University, I bought the necessary components, built the computer and set up the NAS. After that, I also used it as a machine to virtualize systems, as the TrueNAS OS has this capability.
-      - layout: top-middle
-        title: Hackintosh ☠️🍎💻
-        link: https://www.linkedin.com/feed/update/urn:li:activity:6770245686622486528/
-        # link_text: Project Website
-        additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          I always wanted a Mac but could not afford one, so I built one!
-        description: | # this will include new lines to allow paragraphs
-          I started working on it as my dream o having an Apple machine. Then, inspired by a friend, I bought the necessary additions to my old computer, read a lot of threads on specific forums, and finally set up and run Hackintosh. Of course, not all things were working, but this experience gave me incredible fun by fixing errors coming while working on it. Through this course, I learned the basics of working using <mark>Bash</mark> and <mark>CMD</mark>.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Pavia, Pavia, Italy
+        title: University of Pavia, Italy
         caption: 2022 - 2023
-        sub_title: Master of Science, MSc in Computer Science
+        sub_title: Master of Science, Computer Enigneering
         quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -143,16 +113,16 @@ content:
       - layout: left
         title: WSB University, Gdansk, Poland
         caption: 2021 - 2023
-        sub_title: Master of Science, MSc in Computer Science
+        sub_title: Master of Science, Computer Science
         quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Last year I started studying at WSB University in Gdansk. Since then, I have gained knowledge and experience using <mark>Git</mark>. I also got to know the basics of statics and <mark>data analysis</mark> in <mark>R</mark>. When it comes to system administration, I am familiar with <mark>Bash</mark> and <mark>Linux</mark>. I also got to know the basics of <mark>Docker</mark> on <mark>virtual machines</mark> and <mark>IoT</mark> by setting up HomeAssistant; Basics of <mark>Apache Web Server</mark> are also known to me. I learned how to work in <mark>Agile</mark> by attending additional classes.
+          In 2021 I started studying at WSB University in Gdansk. Since then, I have gained knowledge and experience using <mark>Git</mark>. I also got to know the basics of statics and <mark>data analysis</mark> in <mark>R</mark>. When it comes to system administration, I am familiar with <mark>Bash</mark> and <mark>Linux</mark>. I also got to know the basics of <mark>Docker</mark> on <mark>virtual machines</mark> and <mark>IoT</mark> by setting up HomeAssistant; Basics of <mark>Apache Web Server</mark> are also known to me. I learned how to work in <mark>Agile</mark> by attending additional classes.
 
       - layout: left
-        title: Gdynia Maritime University, Gdynia, Poland
+        title: Gdynia Maritime University, Poland
         caption: 2018 - 2021
-        sub_title: Bachelor of Arts, B.A. in Economic and Finance
+        sub_title: Bachelor of Arts, Economic and Finance
         quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
