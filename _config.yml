@@ -48,7 +48,7 @@ linkedin_username: szymonbartoszewicz
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey, my name's Szymon, and I'm a Computer Science student. I have 14+ months of experience troubleshooting Windows & networks at the Service Desk, gaining teamwork & problem-solving skills. Live in Italy. Open to on-site work opportunities.
+  Hey, my name's Szymon, I'm a Computer Science student. I have 14+ months of experience troubleshooting Windows & networks at the Service Desk, gaining teamwork & problem-solving skills. Live in Italy. Open to on-site work opportunities.
   Currently, I'm studying <mark>Data Science</mark> and writing a thesis covering <mark>Machine Learning</mark>.
 
 content:
@@ -60,8 +60,8 @@ content:
         link: https://github.com/avalanche284/Bitcoin-price-prediction
         # link_text: Project Website
         additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
             url: https://github.com/avalanche284/Bitcoin-price-prediction
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
